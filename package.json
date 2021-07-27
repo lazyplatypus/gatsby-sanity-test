@@ -15,5 +15,8 @@
   },
   "devDependencies": {
     "lerna": "^3.13.1"
+  },
+  "dependencies": {
+    "gatsby-plugin-newrelic-test": "^1.0.19"
   }
 }
